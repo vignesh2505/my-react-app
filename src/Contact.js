@@ -18,7 +18,6 @@ function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
     alert(`Thanks for reaching out, ${formData.name}!`);
-    // You can handle form submission logic here
     setFormData({ name: "", email: "", message: "" });
   };
 
@@ -28,7 +27,7 @@ function Contact() {
         <h1>Contact Me</h1>
         <p>
           Feel free to reach out to me using the form below, or you can email me
-          at <strong>youremail@example.com</strong>.
+          at <strong>bvignesh2510@gmail.com</strong>.
         </p>
 
         <form onSubmit={handleSubmit} className="contact-form">
