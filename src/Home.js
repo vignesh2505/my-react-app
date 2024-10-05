@@ -8,7 +8,7 @@ function Home() {
       <div className="hero-container">
         <h1>Welcome to My Portfolio</h1>
         <p>
-          Hi, I'm <strong>Your Name</strong>, a passionate web developer specializing in building
+          Hi, I'm <strong>B.Vignesh Subramaniam</strong>, a passionate web developer specializing in building
           amazing websites and applications. Explore my work and let’s create something great
           together.
         </p>
