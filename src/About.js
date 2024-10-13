@@ -7,9 +7,9 @@ function About() {
       <div className="about-container">
         <h1>About Me</h1>
         <p>
-          Hi, I'm <strong>Your Name</strong>, a passionate web developer with a
+          Hi, I'm <strong>B.Vignesh Subramaniam</strong>, a passionate web developer with a
           strong focus on creating clean, user-friendly websites and applications.
-          With a background in [Your field], I have experience in technologies like
+          I have experience in technologies like
           <strong> HTML, CSS, JavaScript, React, and Node.js.</strong>
         </p>
 
@@ -18,11 +18,6 @@ function About() {
           learning new tools and technologies to stay on the cutting edge of web
           development. In my free time, you’ll find me experimenting with design
           patterns, contributing to open-source projects, or reading tech blogs.
-        </p>
-
-        <p>
-          I’m currently working as a [Your Job Role] at [Company Name] and always
-          open to freelance projects or full-time opportunities.
         </p>
 
         <div className="skills">
